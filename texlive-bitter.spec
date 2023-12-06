@@ -1,6 +1,6 @@
 Name:		texlive-bitter
-Version:	64541
-Release:	2
+Version:	67598
+Release:	1
 Summary:	The Bitter family of fonts with LaTeX support
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bitter
